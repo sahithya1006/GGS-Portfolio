@@ -1,4 +1,4 @@
-# Sahithya Portfolio Website
+# sahithya Portfolio Website
 
 A responsive portfolio/team website developed and deployed using GitHub Pages as part of a collaborative web development project.
 
@@ -10,8 +10,8 @@ https://sahithya1006.github.io/GGS-Portfolio/
 
 ## 👨‍💻 Developer Information
 
-*Name:* Sahithya
-*GitHub Profile:* https://github.com/Sahithya1006
+*Name:* sahithya
+*GitHub Profile:* https://github.com/sahithya1006
 
 ---
 
